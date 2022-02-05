@@ -20,7 +20,7 @@ h5py==2.10.0
 
 ## 2. Training RPN with script:
 ```
-
+SH10.run.training.sh
 ```
 ## 3. Detecting micro-domain using script:
 ```
