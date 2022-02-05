@@ -23,6 +23,4 @@ h5py==2.10.0
 SH10.run.training.sh
 ```
 ## 3. Detecting micro-domain using script:
-```
-
-```
+>SH11.run.detecting.sh
