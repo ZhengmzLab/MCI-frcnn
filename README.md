@@ -2,7 +2,9 @@
 
 * * *
 
-MCI-frcnn derived Faster R-CNN with modifications from  [https://github.com/kbardool/keras-frcnn](https://github.com/kbardool/keras-frcnn).
+* MC-frcnn is a deep learning based object detector used for detecting micro-domain.
+* MCI-frcnn is a part of [MCIBox](https://github.com/tianzhongyuan/MCIBox).
+* MCI-frcnn derived Faster R-CNN with modifications from  [https://github.com/kbardool/keras-frcnn](https://github.com/kbardool/keras-frcnn).
 
 
 ##### Enviroment
