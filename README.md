@@ -1,4 +1,4 @@
-#### MCI-frcnn
+# MCI-frcnn
 
 * * *
 
@@ -13,4 +13,16 @@ tensorflow==2.2.0
 keras==2.3.1
 opencv==3.4.2
 h5py==2.10.0
+```
+
+
+## 1. Using Annotation tool (LabelMe) to draw ground truth boundary of micro-domains
+
+## 2. Training RPN with script:
+```
+
+```
+## 3. Detecting micro-domain using script:
+```
+
 ```
