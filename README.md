@@ -28,3 +28,12 @@ SH10.run.training.sh
 ```
 ## 3. Detecting micro-domain using script:
 >SH11.run.detecting.sh
+
+## 4. Formating micro-domain coordinates
+```
+```
+
+## 5. Mesuare traing quality
+```
+SH32.run.measure.sh
+```
