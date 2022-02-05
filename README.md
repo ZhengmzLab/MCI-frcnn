@@ -27,10 +27,15 @@ SH02.run.json2anno.sh
 SH10.run.training.sh
 ```
 ## 3. Detecting micro-domain using script:
->SH11.run.detecting.sh
-
+```
+SH11.run.detecting.sh
+```
 ## 4. Formating micro-domain coordinates
 ```
+SH12.sta.sh
+SH13_FILTER_ANNO.py
+SH15_COOR_PIC_CONNECT.py
+SH30.adjustanno.sh
 ```
 
 ## 5. Mesuare traing quality
