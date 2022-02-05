@@ -16,7 +16,11 @@ h5py==2.10.0
 ```
 
 
-## 1. Using Annotation tool (LabelMe) to draw ground truth boundary of micro-domains
+## 1. Using Annotation tool (LabelMe) to draw ground truth boundary of micro-domains and reform boundary box infomation
+```
+SH00.rename.image.and.json.sh
+SH02.run.json2anno.sh
+```
 
 ## 2. Training RPN with script:
 ```
