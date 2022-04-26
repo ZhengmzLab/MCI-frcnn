@@ -2,7 +2,7 @@
 
 * * *
 
-* MC-frcnn is a deep learning based object detector used for detecting micro-domain.
+* MC-frcnn is a deep learning based object detector used for micro-domain boundary detection.
 * MCI-frcnn derived Faster R-CNN with modifications from  [https://github.com/kbardool/keras-frcnn](https://github.com/kbardool/keras-frcnn).
 
 
