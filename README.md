@@ -1,5 +1,5 @@
-## To Reader: Sorry, Source code of MCI-frcnn is comming ......
-## To Reviewer: please access https://github.com/MCI-frcnn/MCI-frcnn using passcode supplied in Cover letter.
+### To Reader: Sorry, Source code of MCI-frcnn is comming ......
+### To Reviewer: please access https://github.com/MCI-frcnn/MCI-frcnn using passcode in the Cover letter.
 ***
 # MCI-frcnn
 
